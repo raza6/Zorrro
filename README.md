@@ -1,14 +1,14 @@
 # Zorrro
 Zorrro is a handy youtube-dl script with mp3 tagging.
 
-Downloading music from youtube by hand is tedious and there are no service online to do such a task so I developed my own script.
+Downloading music from youtube by hand is tedious and there is no service online to do such a task, so I developed my own script.
 
 ## Prerequisites
 It uses youtube-dl, BeautifulSoup, eye3d, PySimpleGUI and requests python libraries (You will have to install them with pip).
 
 ## Usage
 Launch it from command line with python 3: `python ./Zorrro-YtMP3.py`
-* Use --ignore if you want to skip the youtube-dl version check
+* Use --ignore if you want to skip the youtube-dl version check.
 * Use --loop if you want to be prompt for a new download when the previous one ended.
 
 /!\ Disclaimer: the GUI is in french, have some baguette fun =P
