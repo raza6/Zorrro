@@ -1,4 +1,4 @@
-# Zorrro
+# Zorrro ![Version](https://img.shields.io/github/v/release/raza6/Zorrro?include_prereleases)
 Zorrro is a handy youtube-dl script with mp3 tagging.
 
 Downloading music from youtube by hand is tedious and there is no service online to do such a task, so I developed my own script.
